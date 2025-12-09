@@ -1,0 +1,6 @@
+Color Name	Hex Code	RGB Values (R, G, B)
+Ash Grey	#A2A79E	(162, 167, 158)
+Dusty Mauve	#A27E8E	(162, 126, 142)
+Cinnamon Wood	#A77464	(167, 116, 100)
+Burgundy	#88292F	(136, 41, 47)
+Dark Coffee	#2E1E0F	(46, 30, 15)

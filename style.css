@@ -1,0 +1,104 @@
+#logo {
+    font-family:'Times New Roman', Times, serif; 
+    color: #A77464; 
+    font-size: 25px; 
+
+    position: absolute; 
+    top: 8x; 
+    right: 50px; 
+}
+
+body {
+        font-family: "Noto Sans", sans-serif;
+        background-color: rgb(174, 180, 169);
+    }
+
+.home-buttons {
+    text-align: center;
+}
+
+a {
+    text-decoration: none; 
+    color: rgba(162, 167, 158, 0.76); 
+}
+.home-with-background {
+    position: relative; 
+    background-image: url(chopping\ board\ background.png);
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-position: center; 
+}
+.home-buttons button {
+    background-color: rgba(46, 30, 15, 0.826);
+    border: none;
+    width: 100px;
+    height: 40px;
+    font-size: 20px;
+}
+
+
+a:hover {
+    filter: brightness(0.9);
+    color: rgb(136, 41, 47);
+}
+
+.home-quote {
+    color: rgba(255, 255, 255, 0.829);
+    text-align: center;
+    text-shadow: 2px 2px 3px black;
+}
+
+
+.padding-of-home-quote {
+    padding: 75px;
+}
+
+
+.achievements {
+    display: flex; 
+    justify-content: space-around;
+}
+
+.achievements h2 {
+    background-color: rgb(46,30,15);
+    color: rgb(167,116,100); 
+    padding: 15px; 
+    border-radius: 15px; 
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.about {
+    display: flex;
+    gap: 20px;
+    background-color: #A77464;
+    margin-top: 12px; 
+    padding: 30px; 
+    border-radius: 20px;
+}
+
+.image-container {
+    width: 75%; 
+}
+
+#abouttext-image {
+    max-width: 100%;  
+    height: auto; 
+    min-width: 0; 
+}
+
+.abouttext {
+    width: 75%; 
+    color: rgb(239, 239, 239); 
+}
+
+.abouttext h1 {
+    color: #2E1E0F; 
+}
+
+.contact {
+    color: #88292F;
+}
