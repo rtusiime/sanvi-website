@@ -104,4 +104,6 @@ a:hover {
 
 .contact {
     color: #88292F;
+    background-color: #2E1E0F;
+    border-radius: 15px; 
 }
