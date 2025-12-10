@@ -88,6 +88,9 @@ a:hover {
     max-width: 100%;  
     height: auto; 
     min-width: 0; 
+    border: groove; 
+    border-color: #88292F;
+    border-width: 15px; 
 }
 
 .abouttext {
