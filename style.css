@@ -23,7 +23,7 @@ a {
 }
 .home-with-background {
     position: relative; 
-    background-image: url(chopping\ board\ background.png);
+    background-image: url(images/chopping_board_background.png);
     background-size: cover; 
     background-repeat: no-repeat; 
     background-position: center; 
